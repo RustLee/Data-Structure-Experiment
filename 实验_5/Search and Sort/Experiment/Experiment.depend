@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1559629522 source:c:\users\administrator\desktop\search and sort\experiment\main.c
+	<stdio.h>
+	<string.h>
+
+1559663869 source:c:\users\tuohuang\desktop\study\数据结构\实验\查找和排序\search and sort\experiment\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

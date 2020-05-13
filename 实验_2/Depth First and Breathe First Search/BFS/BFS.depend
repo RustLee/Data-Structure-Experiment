@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556044792 source:c:\users\tuohuang\desktop\study\数据结构\实验\递归与回溯\depth first and breathe first search\bfs\main.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+

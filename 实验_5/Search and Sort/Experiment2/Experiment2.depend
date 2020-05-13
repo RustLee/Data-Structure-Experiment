@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559635487 source:c:\users\administrator\desktop\search and sort\experiment2\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557333470 source:c:\users\tuohuang\desktop\study\数据结构\实验\二叉树生成与遍历\experiment 2&3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
